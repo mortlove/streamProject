@@ -1,0 +1,7 @@
+const ENCRYPTED_SALT = '#$%$%&$bsvsbsgbae345234tgsgvsghvwetyc45y4c5gctsh5e6egc4634#$%^#^&@#%@#$%@';
+const HASH_SALT = `@#$%^#$%^&$HBGBNDRYUBNERTYYBERTYUVERTUJRTJNDRTSHRSTYG$ERTYWERTGHERTURTYUJRTY$%^734567345634574T`
+
+module.exports = {
+    ENCRYPTED_SALT,
+    HASH_SALT
+};
